@@ -1,0 +1,307 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"reser",
+				"reservations"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/alvarogomides/htdocs/coffeetivo"
+	],
+	"file_history":
+	[
+		"/Users/alvarogomides/htdocs/zio/vendor/laravel/framework/src/Illuminate/Testing/TestResponse.php",
+		"/Users/alvarogomides/htdocs/zio/vendor/mockery/mockery/tests/Mockery/Fixtures/SemiReservedWordsAsMethods.php",
+		"/Users/alvarogomides/htdocs/zio/app/Http/Controllers/HotelsController.php",
+		"/Users/alvarogomides/htdocs/zio/app/Hotel.php",
+		"/Users/alvarogomides/htdocs/wordpress/wp-config.php",
+		"/Users/alvarogomides/htdocs/zio/app/MagentoApi/UpdateRoomRoomPriceRequest.php",
+		"/Users/alvarogomides/htdocs/zio/app/MagentoApi/UpdateSubRoomPriceRequest.php",
+		"/Users/alvarogomides/htdocs/zio/app/SubRoomCalendar.php",
+		"/Users/alvarogomides/htdocs/zio/app/RoomRooms.php",
+		"/Users/alvarogomides/htdocs/zio/composer.json",
+		"/Users/alvarogomides/htdocs/zio/routes/web.php",
+		"/Users/alvarogomides/htdocs/zio/app/Http/Controllers/ExportableReservationController.php",
+		"/Users/alvarogomides/htdocs/zio/resources/views/hotels/exports/exportableReservations.blade.php",
+		"/Users/alvarogomides/htdocs/zio/resources/views/hotels/exports/exportReservations.blade.php",
+		"/Users/alvarogomides/htdocs/zio/app/ReservationExport.php",
+		"/Users/alvarogomides/htdocs/zio/app/Exceptions/Handler.php",
+		"/Users/alvarogomides/htdocs/zio/config/session.php",
+		"/Users/alvarogomides/htdocs/zio/app/Http/Controllers/OmniApi/UpdateRatesController.php",
+		"/Users/alvarogomides/htdocs/zio/app/Http/Controllers/OmniApi/OmniApiController.php",
+		"/Users/alvarogomides/htdocs/zio/routes/api.php",
+		"/Users/alvarogomides/htdocs/zio/app/Console/Commands/DispatchLastUpdatedHotels.php",
+		"/Users/alvarogomides/htdocs/zio/app/Jobs/UpdateRoomRoomPrice.php",
+		"/Users/alvarogomides/htdocs/zio/app/GroupedCalendar.php",
+		"/Users/alvarogomides/htdocs/zio/app/Http/Controllers/ReservationExportController.php",
+		"/Users/alvarogomides/htdocs/zio/tests/Feature/GetReservationsApiTest.php",
+		"/Users/alvarogomides/htdocs/zio/.env",
+		"/Users/alvarogomides/htdocs/zio/phpunit.xml",
+		"/Users/alvarogomides/htdocs/zio/resources/views/roomrooms/show.blade.php",
+		"/Users/alvarogomides/htdocs/zio/config/cache.php",
+		"/Users/alvarogomides/htdocs/zio/resources/views/reservations/show.blade.php",
+		"/Users/alvarogomides/htdocs/zio/app/Http/Controllers/ReservationRequestController.php",
+		"/Users/alvarogomides/htdocs/zio/resources/views/reservations/edit.blade.php",
+		"/Users/alvarogomides/htdocs/zio/resources/views/hotels/show.blade.php",
+		"/Users/alvarogomides/htdocs/zio/resources/views/hotels/create.blade.php",
+		"/Users/alvarogomides/htdocs/zio/resources/views/hotels/addreservation.blade.php",
+		"/Users/alvarogomides/htdocs/zio/app/Reservations.php",
+		"/Users/alvarogomides/htdocs/zio/database/seeds/InitialPermissionsSeeder.php",
+		"/Users/alvarogomides/htdocs/zio/app/Http/Resources/ReservationSubRoomResource.php",
+		"/Users/alvarogomides/htdocs/zio/tests/Feature/HotelReservationsTest.php",
+		"/Users/alvarogomides/htdocs/zio/tests/Feature/MiapiTest.php",
+		"/Users/alvarogomides/htdocs/zio/vendor/spatie/temporary-directory/src/TemporaryDirectory.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/alvarogomides/htdocs/coffeetivo"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 342.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"api",
+				"routes/api.php"
+			],
+			[
+				"hotelcon",
+				"app/Http/Controllers/HotelsController.php"
+			],
+			[
+				"rate.blade",
+				"resources/views/hotels/show/rate.blade.php"
+			],
+			[
+				"hotel.bla",
+				"resources/views/hotels/show.blade.php"
+			],
+			[
+				"composer.js",
+				"composer.json"
+			],
+			[
+				"config/data",
+				"config/database.php"
+			],
+			[
+				"exportreservations",
+				"resources/views/hotels/exports/exportReservations.blade.php"
+			],
+			[
+				"web.",
+				"routes/web.php"
+			],
+			[
+				"groupe",
+				"app/GroupedCalendar.php"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"session",
+				"config/session.php"
+			],
+			[
+				"app/except",
+				"app/Exceptions/Handler.php"
+			],
+			[
+				"composer.",
+				"composer.json"
+			],
+			[
+				"room",
+				"app/RoomRooms.php"
+			],
+			[
+				"cache.",
+				"config/cache.php"
+			],
+			[
+				"view/shared/",
+				"resources/views/shared/_permissions.blade.php"
+			],
+			[
+				"hotels/add",
+				"resources/views/hotels/addreservation.blade.php"
+			],
+			[
+				"reservationsub",
+				"app/Http/Resources/ReservationSubRoomResource.php"
+			],
+			[
+				"rese",
+				"app/Reservations.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 406.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
